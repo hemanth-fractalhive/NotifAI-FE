@@ -1,6 +1,6 @@
-# FractalHive Frontend Template
+# NotifAI-FE
 
-An opinionated React + TypeScript starter template used across all FractalHive projects. Clone this before starting any new frontend — the architecture, tooling, and component library are already wired up.
+The NotifAI frontend, built on FractalHive's React + TypeScript template. Architecture, tooling, and component library are pre-wired — see below for conventions.
 
 ---
 
